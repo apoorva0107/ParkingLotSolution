@@ -14,4 +14,4 @@ Due to government regulation, the system should provide us with the ability to f
 We get the input by reading input.txt directly (you’ll have to create it in your environment). 
 The file will contain a set of commands separated by a newline, we need to execute the commands in order and produce output.
 
-[![Run on Repl.it](https://repl.it/badge/github/apoorva0107/ParkingLotSolution)](https://repl.it/github/apoorva0107/ParkingLotSolution)
+[![Run on Repl.it](https://replit.com/@apoorva0107/ParkingLotSolution)](https://replit.com/@apoorva0107/ParkingLotSolution)
